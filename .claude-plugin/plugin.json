@@ -1,0 +1,6 @@
+{
+  "name": "usage-pace",
+  "version": "0.3.0",
+  "description": "A quiet band above the prompt: weekly usage, where you should be by now, and whether to use more or less.",
+  "types": "./types/index.d.ts"
+}
