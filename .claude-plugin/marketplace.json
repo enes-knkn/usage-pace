@@ -1,5 +1,5 @@
 {
   "name": "usage-pace",
-  "owner": { "name": "enes_knkn" },
+  "owner": { "name": "enes-knkn" },
   "plugins": [{ "name": "usage-pace", "source": "./" }]
 }

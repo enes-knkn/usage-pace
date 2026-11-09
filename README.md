@@ -18,7 +18,7 @@ The band is in French. It draws in the terminal and in the Claude desktop app.
 At the prompt of a terminal session:
 
 ```
-/plugin install usage-pace --marketplace enes_knkn/usage-pace
+/plugin install usage-pace --marketplace enes-knkn/usage-pace
 ```
 
 Answer `y` to add the marketplace, then pick a scope (user is the first one).
@@ -26,7 +26,7 @@ Answer `y` to add the marketplace, then pick a scope (user is the first one).
 From a shell:
 
 ```
-claude plugin install usage-pace --marketplace enes_knkn/usage-pace
+claude plugin install usage-pace --marketplace enes-knkn/usage-pace
 ```
 
-In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `enes_knkn/usage-pace`, then Add plugin.
+In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `enes-knkn/usage-pace`, then Add plugin.
